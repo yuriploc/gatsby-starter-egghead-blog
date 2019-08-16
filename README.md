@@ -1,3 +1,5 @@
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=yuriploc/gatsby-starter-egghead-blog)](https://dependabot.com)
+
 # egghead.io creator MDX Blog Starter Project
 
 This is based on Robin Wieruch's https://github.com/rwieruch/gatsby-mdx-blog-starter-project
