@@ -42,7 +42,7 @@
     "prism-react-renderer": "^0.1.5",
     "prism-themes": "^1.0.1",
     "prismjs": "^1.17.1",
-    "react": "^16.8.0-alpha.0",
+    "react": "^16.11.0",
     "react-dom": "^16.8.0-alpha.0",
     "react-helmet": "~5.2.0",
     "react-live": "^1.12.0",
