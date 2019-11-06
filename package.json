@@ -6,7 +6,7 @@
   "repository": "https://github.com/eggheadio/gatsby-starter-egghead-blog",
   "dependencies": {
     "@emotion/core": "^10.0.15",
-    "@emotion/styled": "^10.0.5",
+    "@emotion/styled": "^10.0.15",
     "@mdx-js/mdx": "^0.16.6",
     "@mdx-js/tag": "^0.16.8",
     "core-js": "^2.6.1",
